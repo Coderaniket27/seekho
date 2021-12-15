@@ -11,7 +11,7 @@ function Sweets() {
         <div>
             
             <div style={swee}>
-            <h1>SWEETS WORLD</h1>
+            <h1>SWEETS WORLDssss</h1>
             <img src="gulab.jfif" style={img}/>        
             <img src="katli.jfif"/>   
             </div>
