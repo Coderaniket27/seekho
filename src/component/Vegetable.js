@@ -113,7 +113,7 @@ console.log(data)
             <br/>
             <br/>
             <h1 style={{ textAlign:"center"}}>
-                THANKS FOR VISITING.
+                THANKS FOR VISITING....
             </h1>
             </div>
         </div>
