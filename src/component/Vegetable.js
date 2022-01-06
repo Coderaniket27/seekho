@@ -57,14 +57,14 @@ console.log(data)
                    
                    <div style={mystyle}>
                       <h1 style={hea} ><strong> BURGER WORLD</strong></h1> 
-                   <img src="download.jfif"  style={pic}/>
+                   <img src="download.jfif" alt='no' style={pic}/>
                    <br/>
-                   <img src="images.jfif"  style={pic}/>
+                   <img src="images.jfif" alt='no' style={pic}/>
                    </div>
                    <div style= {mys}>
                        <h1 style={hea}>Menu</h1>
                    <div>
-                       <img src ="mains.jfif" style={pic}/>
+                       <img src ="mains.jfif" alt="no" style={pic}/>
                    </div>
                    <br/>
                    <br/>
@@ -73,11 +73,11 @@ console.log(data)
               <div style={{textAlign:"center"}}>
                  <i>Names:</i> <strong> { data[pag].name }</strong>
 <br/>
-                  <i> Restro: </i>    <strong>{ data[pag]. restaurant}</strong>
+                  <i> Restro: </i>    <strong>{ data[pag].restaurant}</strong>
            <br/>
-           <i>      WebSite: </i>    <strong>{ data[pag]. web}</strong>
+           <i>      WebSite: </i>    <strong>{ data[pag].web}</strong>
            <br/>
-           <i>      Description: </i>    <strong>{ data[pag].  description}</strong>
+           <i>      Description: </i>    <strong>{ data[pag].description}</strong>
 
            <h3>Hurry up!! Hurry up!</h3>
            <p1>Burger world is newly launched so come grab your new offer now
