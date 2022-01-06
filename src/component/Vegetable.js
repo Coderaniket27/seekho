@@ -107,13 +107,13 @@ console.log(data)
             <br/>
             Considerable evidence suggests that either the USA or Germany (city of Hamburg) was the first country where two
             slices of bread and a ground beef steak were combined into a "hamburger sandwich" and sold. There is some controversy over the origin of the hamburger because its two basic ingredients,
-            bread and beef, had been prepared and consumed separately for many years in different countries before their combination. Shortly after its creation, the hamburger quickly included all of its currently typically characteristic trimmings, including onions, lettuce, and sliced pickles.
+            bread and beef,  been prepared and consumed separately for many years in different countries before their combination. Shortly after its creation, the hamburger quickly included all of its currently typically characteristic trimmings, including onions, lettuce, and sliced pickles.
 
             </div>
             <br/>
             <br/>
             <h1 style={{ textAlign:"center"}}>
-                THANKS FOR VISITING....
+                THANKS FOR VISITING.
             </h1>
             </div>
         </div>
